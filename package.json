@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-class",
+  "version": "1.0.0",
+  "description": "Node course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djsmacker01/Nodejs-Class.git"
+  },
+  "author": "Nurudeen Adedeji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djsmacker01/Nodejs-Class/issues"
+  },
+  "homepage": "https://github.com/djsmacker01/Nodejs-Class#readme",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
