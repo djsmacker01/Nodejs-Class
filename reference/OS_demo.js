@@ -15,3 +15,9 @@ console.log(OS.platform());
 
   //total memory info
  console.log(OS.freemem());
+
+ //Home directory
+ console.log(OS.homedir());
+
+ //Uptime info
+ console.log(OS.uptime());
