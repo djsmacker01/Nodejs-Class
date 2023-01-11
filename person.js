@@ -3,15 +3,17 @@
 
 // })
 
-console.log(__filename, __dirname);
+// console.log(__filename, __dirname);
 
 class Person  {
+
     constructor(name,age) {
         this.name = name;
         this.age = age;
     }
 
-    greeting(){
+    greeting()
+    {
         console.log(`My name is ${this.name} and i am ${this.age}`)
     }
 }

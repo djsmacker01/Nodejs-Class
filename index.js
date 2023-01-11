@@ -1,10 +1,10 @@
 const Person = require('./person')
 
-const person1 = new Person()
+const person1 = new Person("john", 30);
 
 // const Person2 = new Person('Mary',75)
 
-person1.greeting('john', 30);
+person1.greeting();
 
 // Person2.greeting();
 
