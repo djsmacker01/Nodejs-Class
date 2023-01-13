@@ -1,0 +1,5 @@
+Synchronous and asynchronous operations
+
+Synchronous is like waiting for a task to complete before moving to the next task
+
+asynchronous is moving to the next task after the first task has completed
